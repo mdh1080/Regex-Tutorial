@@ -51,3 +51,4 @@ Lazy operators are the opposite. They match as few characters as possible. In th
 
 ## Author
 Megan Stanton is a beginner coder. She is learning to code in the full-stack web development program at UNC Chapel Hill.   
+github profile: https://github.com/mdh1080
